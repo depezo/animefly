@@ -1,0 +1,8 @@
+<AppUpdater>
+<update>
+<latestVersion>https://ryuanime-manga.vercel.app/api/v1/</latestVersion>
+<latestVersionCode>17</latestVersionCode>
+<url>https://anime.sport4peacecomdev.com/api/v1/</url>
+<releaseNotes> Mala noticia ============ Esto no es una actualización, sino una advertencia, la aplicación Animefly no se ejecutará durante unos días, la causa: recursos insuficientes. El servicio se detiene por unos días. Puedes apoyarnos escribiéndonos a animefly@misapi.net</releaseNotes>
+</update>
+</AppUpdater>
